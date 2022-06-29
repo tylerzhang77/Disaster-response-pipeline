@@ -35,6 +35,9 @@ Exports the final model as a pickle file
 
 ### Flask Web App
 
+## Package Used
+pandas, numpy, nltk, sqlalchemy, sklearn, re, pickle
+
 ## Instruction 
 1. Run the following commands in the project's root directory to set up your database and model.
 
